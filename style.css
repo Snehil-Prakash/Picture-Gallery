@@ -1,0 +1,69 @@
+header {
+    background-color: black;
+}
+
+header h2 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+img {
+    width: 1375px;
+    height: 600px;
+}
+
+body {
+    text-align: center;
+    background-color: linear-gradient
+}
+
+#CA {
+    width: 300px;
+    height: 200px;
+    margin-right: 20px;
+}
+
+#IM {
+    width: 200px;
+    height: 375px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#TH {
+    width: 225px;
+    height: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#HU {
+    width: 225px;
+    height: 200px;
+    margin-left: 20px;
+}
+
+#DS {
+    width: 250px;
+    height: 300px;
+    margin-right: 20px;
+}
+
+#VI {
+    width: 200px;
+    height: 300px;
+    margin-right: 20px;
+}
+
+#TA {
+    width: 400px;
+    height: 300px;
+    margin-right: 20px;
+}
+
+#BP {
+    width: 275px;
+    height: 300px;
+    margin-right: 20px;
+}
